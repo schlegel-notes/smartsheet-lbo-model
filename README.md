@@ -11,6 +11,7 @@ forecasting, scenario analysis, and return modelling for a SaaS business.
 ## 📁 Repository Structure
 
 **Model/**
+Excel files must be downloaded to view the full model, as GitHub does not preview .xlsx files.
 - `Smartsheet_LBO_Model.xlsx` – Full integrated LBO model, including:
   - 10-year operating forecast
   - Sources & Uses
@@ -18,10 +19,9 @@ forecasting, scenario analysis, and return modelling for a SaaS business.
   - Cash flow waterfall
   - IRR and MOIC across scenarios
   - Sensitivity analysis
-
+Excel files must be downloaded to view the full model, as GitHub does not preview .xlsx files.
 **Documentation/**
-- `LBO_Executive_Summary.pdf` – Short overview of methodology and key results
-- `LBO_Presentation.pdf` – Presentation summarizing the transaction and findings
+- `LBO_MBA Final Project.pdf` – Overview of the project methodology and key results
 
 ---
 
